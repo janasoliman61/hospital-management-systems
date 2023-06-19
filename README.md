@@ -1,2 +1,2 @@
-# hospital-management-systems
+# Hospital-management-system
 OOP project in Java
